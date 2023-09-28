@@ -34,7 +34,4 @@ function getUsersNamesInAgeRange(users, gender) {
 	} else {
 		return result = 0;
 	}
-
-
-
 }
